@@ -31,7 +31,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
-  "VITE_SEO_THEME_COLOR": "#3b51f7",
+  "VITE_SEO_THEME_COLOR": "#001eff",
   "VITE_SEO_KEYWORDS": "",
   "VITE_AVAILABLE_LANGUAGES": "en,vi,tc,ko,es,fr,it,nl,pt,ru,uk,id,pl,tr,de,ja,zh",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
